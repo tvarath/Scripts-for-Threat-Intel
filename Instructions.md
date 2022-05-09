@@ -1,2 +1,2 @@
 #Intel Source Search:
-  Use te 
+  Use 'sourcesites_TI_.py' script to seach the sources of the threat intel to get more inforation about available HASH / IP / URL 
