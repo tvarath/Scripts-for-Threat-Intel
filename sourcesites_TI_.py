@@ -6,7 +6,7 @@ except ImportError:
     print("No module named 'google' found")
 
 # to search
-query = input ("Enter Your HASH Value:")
+query = input ("Enter Your HASH Value / IP Address:")
 
 for j in search (query, tld="co.in", num=100, stop=100, pause=2):
     print(j)
